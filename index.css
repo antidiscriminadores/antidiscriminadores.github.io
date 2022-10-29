@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Source Sans 3', sans-serif;
+}
+
+main{
+	background: #f0f0f0;
+	padding: 40px 20px;
+	margin-top: 194px;
+}
+
+article{
+	max-width: 1200px;
+	margin: 20px auto;
+	padding: 40px;
+	background: #ffffff;
+}
+
+article p{
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+article a{
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: 300;
+	text-decoration: none;
+}
